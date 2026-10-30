@@ -1,0 +1,303 @@
+[
+  {
+    "id": "c1",
+    "title": "The Complete JavaScript Course",
+    "provider": "Udemy",
+    "instructor": "Jonas Schmedtmann",
+    "level": "Beginner",
+    "duration": "6w",
+    "url": "https://www.udemy.com/course/the-complete-javascript-course/",
+    "skills_covered": ["JavaScript", "HTML", "CSS", "REST APIs", "ES6", "Async/Await", "DOM Manipulation"]
+  },
+  {
+    "id": "c2",
+    "title": "React - The Complete Guide",
+    "provider": "Udemy",
+    "instructor": "Academind",
+    "level": "Beginner",
+    "duration": "8w",
+    "url": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/",
+    "skills_covered": ["React", "HTML", "CSS", "JavaScript", "TypeScript", "Redux", "Hooks", "Next.js"]
+  },
+  {
+    "id": "c3",
+    "title": "Microservices with Spring Boot and Spring Cloud",
+    "provider": "Udemy",
+    "instructor": "In28Minutes",
+    "level": "Intermediate",
+    "duration": "10w",
+    "url": "https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/",
+    "skills_covered": ["Java", "Spring Boot", "Spring Cloud", "Microservices", "REST APIs", "Docker", "System Design", "Kubernetes"]
+  },
+  {
+    "id": "c4",
+    "title": "Build Responsive Real-World Websites with HTML and CSS",
+    "provider": "Udemy",
+    "instructor": "Jonas Schmedtmann",
+    "level": "Beginner",
+    "duration": "4w",
+    "url": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/",
+    "skills_covered": ["HTML", "CSS", "Responsive Design", "Flexbox", "CSS Grid", "Web Design"]
+  },
+  {
+    "id": "c5",
+    "title": "Understanding TypeScript",
+    "provider": "Udemy",
+    "instructor": "Maximilian Schwarzmüller",
+    "level": "Intermediate",
+    "duration": "4w",
+    "url": "https://www.udemy.com/course/understanding-typescript/",
+    "skills_covered": ["TypeScript", "JavaScript", "OOP", "Generics", "Decorators"]
+  },
+  {
+    "id": "c6",
+    "title": "Node.js, Express, MongoDB & More: The Complete Bootcamp",
+    "provider": "Udemy",
+    "instructor": "Jonas Schmedtmann",
+    "level": "Intermediate",
+    "duration": "7w",
+    "url": "https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/",
+    "skills_covered": ["Node.js", "Express", "MongoDB", "REST APIs", "Mongoose", "Backend", "JWT", "Security"]
+  },
+  {
+    "id": "c7",
+    "title": "System Design Interview – An Insider's Guide",
+    "provider": "ByteByteGo",
+    "instructor": "Alex Xu",
+    "level": "Advanced",
+    "duration": "6w",
+    "url": "https://bytebytego.com/",
+    "skills_covered": ["System Design", "Scalability", "Microservices", "Distributed Systems", "Redis", "Kafka", "Load Balancing", "Caching", "Architecture"]
+  },
+  {
+    "id": "c8",
+    "title": "Redis: The Complete Developer's Guide",
+    "provider": "Udemy",
+    "instructor": "Stephen Grider",
+    "level": "Intermediate",
+    "duration": "4w",
+    "url": "https://www.udemy.com/course/redis-the-complete-developers-guide-with-microservices/",
+    "skills_covered": ["Redis", "Caching", "NoSQL", "In-Memory Databases", "Pub/Sub", "Data Streams"]
+  },
+  {
+    "id": "c9",
+    "title": "Java Programming Masterclass",
+    "provider": "Udemy",
+    "instructor": "Tim Buchalka",
+    "level": "Beginner",
+    "duration": "8w",
+    "url": "https://www.udemy.com/course/java-the-complete-java-developer-course/",
+    "skills_covered": ["Java", "OOP", "Data Structures", "Algorithms", "Concurrency", "JVM"]
+  },
+  {
+    "id": "c10",
+    "title": "Docker and Kubernetes: The Complete Guide",
+    "provider": "Udemy",
+    "instructor": "Stephen Grider",
+    "level": "Intermediate",
+    "duration": "7w",
+    "url": "https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/",
+    "skills_covered": ["Docker", "Kubernetes", "DevOps", "CI/CD", "Containers", "Microservices", "Cloud"]
+  },
+  {
+    "id": "c11",
+    "title": "Machine Learning Specialization",
+    "provider": "Coursera",
+    "instructor": "Andrew Ng (DeepLearning.AI)",
+    "level": "Intermediate",
+    "duration": "10w",
+    "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+    "skills_covered": ["Machine Learning", "Python", "Scikit-Learn", "Regression", "Classification", "Supervised Learning", "Unsupervised Learning", "Neural Networks"]
+  },
+  {
+    "id": "c12",
+    "title": "Deep Learning Specialization",
+    "provider": "Coursera",
+    "instructor": "Andrew Ng (DeepLearning.AI)",
+    "level": "Advanced",
+    "duration": "12w",
+    "url": "https://www.coursera.org/specializations/deep-learning",
+    "skills_covered": ["Deep Learning", "Neural Networks", "TensorFlow", "CNN", "RNN", "PyTorch", "Computer Vision", "Natural Language Processing"]
+  },
+  {
+    "id": "c13",
+    "title": "Natural Language Processing with Transformers",
+    "provider": "Hugging Face",
+    "instructor": "Lewis Tunstall & Team",
+    "level": "Advanced",
+    "duration": "6w",
+    "url": "https://huggingface.co/course/chapter1/1",
+    "skills_covered": ["Natural Language Processing", "NLP", "Transformers", "BERT", "GPT", "PyTorch", "Hugging Face", "LLMs"]
+  },
+  {
+    "id": "c14",
+    "title": "Ultimate AWS Certified Solutions Architect Associate",
+    "provider": "Udemy",
+    "instructor": "Stephane Maarek",
+    "level": "Intermediate",
+    "duration": "8w",
+    "url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/",
+    "skills_covered": ["AWS", "Amazon Web Services", "Cloud Computing", "S3", "EC2", "RDS", "Lambda", "IAM", "Cloud Architecture"]
+  },
+  {
+    "id": "c15",
+    "title": "The Complete SQL Bootcamp",
+    "provider": "Udemy",
+    "instructor": "Jose Portilla",
+    "level": "Beginner",
+    "duration": "4w",
+    "url": "https://www.udemy.com/course/the-complete-sql-bootcamp/",
+    "skills_covered": ["SQL", "PostgreSQL", "Database Design", "Relational Databases", "Data Analysis", "Queries"]
+  },
+  {
+    "id": "c16",
+    "title": "Python for Data Science and Machine Learning Bootcamp",
+    "provider": "Udemy",
+    "instructor": "Jose Portilla",
+    "level": "Beginner",
+    "duration": "8w",
+    "url": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
+    "skills_covered": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-Learn", "Data Science", "Machine Learning"]
+  },
+  {
+    "id": "c17",
+    "title": "Git & GitHub - The Practical Guide",
+    "provider": "Udemy",
+    "instructor": "Maximilian Schwarzmüller",
+    "level": "Beginner",
+    "duration": "2w",
+    "url": "https://www.udemy.com/course/git-github-practical-guide/",
+    "skills_covered": ["Git", "GitHub", "Version Control", "CI/CD", "Branching", "Collaboration"]
+  },
+  {
+    "id": "c18",
+    "title": "Apache Kafka Series: Learn Apache Kafka for Beginners",
+    "provider": "Udemy",
+    "instructor": "Stephane Maarek",
+    "level": "Intermediate",
+    "duration": "4w",
+    "url": "https://www.udemy.com/course/apache-kafka/",
+    "skills_covered": ["Kafka", "Big Data", "Data Streaming", "Event-Driven Architecture", "Distributed Systems"]
+  },
+  {
+    "id": "c19",
+    "title": "Taming Big Data with Apache Spark and Python",
+    "provider": "Udemy",
+    "instructor": "Frank Kane",
+    "level": "Intermediate",
+    "duration": "5w",
+    "url": "https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/",
+    "skills_covered": ["Spark", "Big Data", "PySpark", "Hadoop", "Data Pipelines", "ETL", "Data Lakes"]
+  },
+  {
+    "id": "c20",
+    "title": "Business and Financial Modeling Specialization",
+    "provider": "Coursera",
+    "instructor": "Wharton School",
+    "level": "Intermediate",
+    "duration": "8w",
+    "url": "https://www.coursera.org/specializations/wharton-business-financial-modeling",
+    "skills_covered": ["Financial Modeling", "Excel", "Financial Analysis", "Forecasting", "Accounting", "Valuation", "Risk Analysis"]
+  },
+  {
+    "id": "c21",
+    "title": "Introduction to Financial Accounting",
+    "provider": "Coursera",
+    "instructor": "Brian Bushee (Wharton)",
+    "level": "Beginner",
+    "duration": "4w",
+    "url": "https://www.coursera.org/learn/wharton-accounting",
+    "skills_covered": ["Accounting", "Financial Accounting", "Financial Reporting", "GAAP", "Balance Sheet", "Income Statement"]
+  },
+  {
+    "id": "c22",
+    "title": "Human Resource Management: HR for People Managers",
+    "provider": "Coursera",
+    "instructor": "University of Minnesota",
+    "level": "Beginner",
+    "duration": "6w",
+    "url": "https://www.coursera.org/specializations/human-resource-management",
+    "skills_covered": ["Human Resources", "Recruitment", "Onboarding", "Employee Relations", "Performance Management", "Compensation", "Compliance"]
+  },
+  {
+    "id": "c23",
+    "title": "Sales Training: Practical Sales Techniques",
+    "provider": "Udemy",
+    "instructor": "Chris Croft",
+    "level": "Beginner",
+    "duration": "3w",
+    "url": "https://www.udemy.com/course/practical-sales-techniques/",
+    "skills_covered": ["B2B Sales", "Cold Calling", "Negotiation", "Lead Generation", "Closing Deals", "CRM", "Sales Strategy"]
+  },
+  {
+    "id": "c24",
+    "title": "Tableau 2026 A-Z: Hands-On Tableau Training For Data Science",
+    "provider": "Udemy",
+    "instructor": "Kirill Eremenko",
+    "level": "Beginner",
+    "duration": "4w",
+    "url": "https://www.udemy.com/course/tableau10/",
+    "skills_covered": ["Tableau", "Business Intelligence", "Data Visualization", "Dashboards", "Data Analytics"]
+  },
+  {
+    "id": "c25",
+    "title": "Microsoft Power BI Desktop for Business Intelligence",
+    "provider": "Udemy",
+    "instructor": "Maven Analytics",
+    "level": "Beginner",
+    "duration": "5w",
+    "url": "https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/",
+    "skills_covered": ["Power BI", "DAX", "Business Intelligence", "Data Modeling", "Dashboards"]
+  },
+  {
+    "id": "c26",
+    "title": "Angular - The Complete Guide",
+    "provider": "Udemy",
+    "instructor": "Maximilian Schwarzmüller",
+    "level": "Intermediate",
+    "duration": "8w",
+    "url": "https://www.udemy.com/course/the-complete-guide-to-angular-2/",
+    "skills_covered": ["Angular", "TypeScript", "RxJS", "HTML", "CSS", "Frontend", "REST APIs"]
+  },
+  {
+    "id": "c27",
+    "title": "Vue - The Complete Guide",
+    "provider": "Udemy",
+    "instructor": "Maximilian Schwarzmüller",
+    "level": "Beginner",
+    "duration": "6w",
+    "url": "https://www.udemy.com/course/vuejs-2-the-complete-guide/",
+    "skills_covered": ["Vue.js", "Vue", "JavaScript", "HTML", "CSS", "Frontend", "Pinia"]
+  },
+  {
+    "id": "c28",
+    "title": "Mastering Data Structures & Algorithms using C and C++",
+    "provider": "Udemy",
+    "instructor": "Abdul Bari",
+    "level": "Intermediate",
+    "duration": "10w",
+    "url": "https://www.udemy.com/course/datastructurescncpp/",
+    "skills_covered": ["Data Structures", "Algorithms", "C++", "C", "Pointers", "Recursion", "Trees", "Graphs"]
+  },
+  {
+    "id": "c29",
+    "title": "DevOps Beginners to Advanced with Projects",
+    "provider": "Udemy",
+    "instructor": "Imran Teli",
+    "level": "Beginner",
+    "duration": "8w",
+    "url": "https://www.udemy.com/course/decodingdevops/",
+    "skills_covered": ["DevOps", "Linux", "Git", "Jenkins", "Ansible", "Docker", "Kubernetes", "AWS", "CI/CD", "Terraform"]
+  },
+  {
+    "id": "c30",
+    "title": "The Complete Cyber Security Course: Hackers Exposed!",
+    "provider": "Udemy",
+    "instructor": "Nathan House",
+    "level": "Beginner",
+    "duration": "5w",
+    "url": "https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/",
+    "skills_covered": ["Cybersecurity", "Information Security", "Network Security", "Vulnerability Assessment", "Encryption", "Firewalls"]
+  }
+]
+

@@ -1,0 +1,34 @@
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Streamlit
+.streamlit/*
+!.streamlit/config.toml
+
+# Temporary / raw datasets
+data/raw_dataset.parquet
+
+# Private user resumes (never commit personal resumes)
+*.pdf
+!sample_resumes/1_software_engineer_resume.pdf
+!sample_resumes/2_data_scientist_resume.pdf
+!sample_resumes/3_financial_analyst_resume.pdf
+!sample_resumes/4_human_resources_resume.pdf
+!sample_resumes/5_business_development_sales_resume.pdf
+resumes/
+test_resumes/
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,52 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /Resources << /Font << /F1 4 0 R >> >> /MediaBox [0 0 612 792] /Contents 5 0 R >> endobj
+4 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+5 0 obj << /Length 1592 >> stream
+BT
+/F1 11 Tf
+50 750 Td
+15 TL
+(PRIYA SHARMA, Ph.D.) '
+(Email: priya.sharma@aimail.com | Phone: +1-555-0202 | LinkedIn: linkedin.com/in/priyasharma-ai) '
+(================================================================================) '
+(PROFESSIONAL SUMMARY:) '
+(Data Scientist and Machine Learning Engineer specializing in predictive modeling,) '
+(Natural Language Processing \(NLP\), and Deep Learning neural network architectures.) '
+() '
+(TECHNICAL SKILLS:) '
+(- Core AI/ML: Machine Learning, Deep Learning, NLP, Computer Vision, Statistics) '
+(- Libraries: Scikit-Learn, TensorFlow, PyTorch, Pandas, NumPy, SciPy) '
+(- Languages & Databases: Python, R, SQL, PostgreSQL) '
+(- Big Data & Visualization: Tableau, Power BI, Apache Spark, Matplotlib, Seaborn) '
+(- Cloud & MLOps: AWS Cloud, MLflow, Docker, Git, Linux) '
+() '
+(PROFESSIONAL EXPERIENCE:) '
+(Lead Machine Learning Engineer | DeepVision AI Labs \(2022 - Present\)) '
+(- Built end-to-end predictive machine learning pipelines using Scikit-Learn and PyTorch.) '
+(- Fine-tuned NLP language models for automated text classification and document search.) '
+(- Deployed inference microservices with Docker on AWS with sub-100ms latency.) '
+() '
+(Data Scientist | FinAnalytics Corp \(2020 - 2022\)) '
+(- Analyzed multi-terabyte transactional datasets using Python, Pandas, and SQL.) '
+(- Created executive dashboards in Power BI and Tableau for senior management.) '
+() '
+(EDUCATION:) '
+(Ph.D. in Artificial Intelligence & Machine Learning | National Institute of Technology) '
+(M.S. in Data Science & Applied Statistics \(2019\)) '
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+1955
+%%EOF
